@@ -7,12 +7,12 @@
 </div>
 
 ###
+![Typecast Animation](./assets/Hello,World.gif)
 
 <img align="right" height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4fUpdPzmkF0IQPjZfCX0nBqUDuQkF49csVtgiir5uFbLE5eQ8XkkQI3LAsTcF-2KoeLuGo89ngN1CpizL-XqUHD9UDwr86NOND79mSVY-yErwGG02GOQi_I0KoFGjwjuB4u7QWrqBy5k/s640/endless-comp.gif"  />
 
 ###
 
-![Typecast Animation](./assets/Hello,World.gif)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
